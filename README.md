@@ -1,2 +1,0 @@
-# Tutorial
-Repositorio de Prueba
